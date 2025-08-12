@@ -32,20 +32,10 @@ I thrive in:
 
 ---
 
-### 🌟 Featured Project
-
-#### **Scrybe AI**
-> A next-gen **AI swing trading platform** delivering actionable signals, trade confidence scoring, and backtested insights — designed to make smart trading simple.
-
-[![View Project](https://img.shields.io/badge/View_on-GitHub-black?logo=github)](https://github.com/hriday29/Scrybe-AI)  
-<sub>*Currently in beta — built with minimal code, maximum vision.*</sub>
-
----
-
 ### 🔭 Current Focus
 
-- Scaling **Scrybe AI** for beta testing & public launch
-- Exploring AI solutions in **data-driven decision making**
+- Scaling finance-focused AI solutions for market analysis and decision making
+- Exploring AI applications in **data-driven financial strategies**
 - Building a niche at the intersection of **finance & AI**
 
 ---
@@ -59,10 +49,11 @@ I thrive in:
 
 ### 📊 GitHub Stats
 
-![Hriday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hriday29&show_icons=true&theme=radical)
+![Hriday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hriday29&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hriday29&layout=compact&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hriday29.hriday29)
 
 ---
+
 <!-- Always building. Always learning. -->
