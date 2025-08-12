@@ -32,7 +32,7 @@ I specialize in building **lean, high-impact AI solutions** that empower better 
 ### 🛠 Skills & Tools
 
 **Domains**  
-`AI & Machine Learning` • `Finance-Tech` • `Product Strategy`  
+`AI` • `Finance-Tech` • `Project and Product Strategy` 
 
 **Core Skills**  
 `Project Management` • `Product Architecture` • `Business Development`  
