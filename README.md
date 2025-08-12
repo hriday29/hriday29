@@ -4,7 +4,7 @@
 <h3 align="center">⚡ AI Project Manager • Product Architect • Finance-Tech Innovator</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Finance%20%2B%20AI%20%3D%20Future-0A0A0A?style=for-the-badge&logo=ai&logoColor=white" alt="Finance + AI">
+  <img src="https://img.shields.io/badge/Finance%20%2B%20AI%20%3D%20Future-0A0A0A?style=for-the-badge&logo=ai&logoColor=white" alt="AI-Powered Financial Innovation">
   <img src="https://img.shields.io/badge/Product%20Builder-003366?style=for-the-badge&logo=react&logoColor=white" alt="Product Builder">
   <img src="https://img.shields.io/badge/Data%20Driven-228B22?style=for-the-badge&logo=python&logoColor=white" alt="Data Driven">
 </p>
