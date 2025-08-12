@@ -1,7 +1,13 @@
 <!-- Profile README for hriday29 -->
 
 <h1 align="center">Hi, I'm Hriday Vig 👋</h1>
-<h3 align="center">AI Project Manager • Product Architect • Finance-Tech Innovator</h3>
+<h3 align="center">⚡ AI Project Manager • Product Architect • Finance-Tech Innovator</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Finance%20%2B%20AI%20%3D%20Future-0A0A0A?style=for-the-badge&logo=ai&logoColor=white" alt="Finance + AI">
+  <img src="https://img.shields.io/badge/Product%20Builder-003366?style=for-the-badge&logo=react&logoColor=white" alt="Product Builder">
+  <img src="https://img.shields.io/badge/Data%20Driven-228B22?style=for-the-badge&logo=python&logoColor=white" alt="Data Driven">
+</p>
 
 ---
 
@@ -12,48 +18,51 @@
 
 ### 👨‍💻 About Me
 
-I specialize in bridging the gap between **AI innovation** and **real-world business impact**.  
-My work focuses on designing, managing, and launching products that merge **AI, data, and finance** — turning technical complexity into intuitive, high-impact tools.
+I work at the intersection of **Artificial Intelligence, Data, and Finance** — turning market complexity into actionable intelligence.  
+I specialize in building **lean, high-impact AI solutions** that empower better decisions in fast-moving environments.
 
-I thrive in:
-- Architecting AI-powered solutions end-to-end
-- Leading small, agile teams with a results-driven mindset
-- Finding creative, resourceful ways to ship impactful projects with limited budgets
-- Building products that solve **specific, high-value problems**
-
----
-
-### 🛠️ Skills & Tools
-
-- **Domains:** AI & Machine Learning • Finance-Tech • Product Strategy
-- **Core Skills:** Project Management • Product Architecture • Business Development
-- **Tech Stack:** Python • SQL • React (basic) • Flask • MongoDB
-- **Other:** Backtesting • Technical Analysis • API Integration
+**What I’m known for:**
+- 🛠 Architecting AI-driven systems with real-world usability  
+- 📈 Applying technical analysis & data-driven strategy to product design  
+- 🤝 Leading small, agile teams to deliver market-ready solutions  
+- ⚙️ Converting limited resources into **scalable, efficient results**
 
 ---
 
-### 🔭 Current Focus
+### 🛠 Skills & Tools
 
-- Scaling finance-focused AI solutions for market analysis and decision making
-- Exploring AI applications in **data-driven financial strategies**
-- Building a niche at the intersection of **finance & AI**
+**Domains**  
+`AI & Machine Learning` • `Finance-Tech` • `Product Strategy`  
+
+**Core Skills**  
+`Project Management` • `Product Architecture` • `Business Development`  
+
+**Tech Stack**  
+`Python` • `SQL` • `Flask` • `MongoDB` • `React (basic)`  
+
+**Other**  
+`Backtesting` • `Technical Analysis` • `API Integration`
+
+---
+
+### 🌍 Vision & Principles
+
+- **Impact First:** Products must solve real, measurable problems  
+- **Lean Execution:** Build smart, fast, and resource-efficient  
+- **Finance Meets AI:** Intelligence is only useful when actionable  
+- **Constant Evolution:** Learn, adapt, and stay ahead of trends  
 
 ---
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hridayvig)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/hriday29)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hridayvig"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hriday29"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-
-![Hriday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hriday29&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hriday29&layout=compact&theme=radical)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hriday29.hriday29)
-
----
-
-<!-- Always building. Always learning. -->
+<p align="center">
+  <sub>⚡ Always building. Always learning. Always evolving.</sub>
+</p>
